@@ -1,6 +1,14 @@
 # Personal_development
-This is where you will find information on all courses, webinars etc I have been attending since 2019. WIP, list will be completed later.
 
+Hi and welcome to my Github page! If you want to know more about me and my work history, please visit my LinkedIn profile at https://www.linkedin.com/in/yvonnelaaksonen/.
+This is where you will find information on all courses, webinars etc I have been attending since 2019. Note that timeline is in descending order. WIP, the list will be completed later.
+
+<H2>Business oriented courses</H2>
+December 2020-(ongoing) SQL - MySQL for Data Analytics and Business Intelligence
+<ul><li>Hosted by 365 Careers<ul></ul>
+July 2020 Lean Six Sigma Yellow Belt
+<ul><li>Hosted by LeanValmennus.fi<ul></ul>
+  
 <H2>Mimmit koodaa workshops and similar</H2>
 December 2020 Hakkeroinnin peruskurssi
 <ul><li>Hosted and sponsored by Visma & Solita</li>
@@ -22,3 +30,4 @@ April 2020 MOOC: Web Coding for Beginners: Population Graphs
   <li>Tools used: Visual Studio Code, node.js</li>
   <li>Languages used: HTML, JavaScript</li>
   <li>Other: REST API, Json</li></ul>
+

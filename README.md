@@ -1,13 +1,12 @@
 # Personal_development
 
-Hi and welcome to my Github page! If you want to know more about me and my work history, please visit my LinkedIn profile at https://www.linkedin.com/in/yvonnelaaksonen/.
-This is where you will find information on all courses, webinars etc I have been attending since 2019. Note that timeline is in descending order. WIP, the list will be completed later.
+Hi and welcome to my Github page! This is where you will find information on all courses, webinars etc I have been attending since 2019. Note that timeline is in descending order. WIP, the list will be completed later. If you want to know more about me and my work history, please visit my LinkedIn profile at https://www.linkedin.com/in/yvonnelaaksonen/.
 
 <H2>Business oriented courses</H2>
 December 2020-(ongoing) SQL - MySQL for Data Analytics and Business Intelligence
-<ul><li>Hosted by 365 Careers<ul></ul>
+<ul><li>Hosted by 365 Careers</li></ul>
 July 2020 Lean Six Sigma Yellow Belt
-<ul><li>Hosted by LeanValmennus.fi<ul></ul>
+<ul><li>Hosted by LeanValmennus.fi</li></ul>
   
 <H2>Mimmit koodaa workshops and similar</H2>
 December 2020 Hakkeroinnin peruskurssi

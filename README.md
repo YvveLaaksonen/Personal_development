@@ -7,8 +7,24 @@ December 2020-(ongoing) SQL - MySQL for Data Analytics and Business Intelligence
 <ul><li>Hosted by 365 Careers</li></ul>
 July 2020 Lean Six Sigma Yellow Belt
 <ul><li>Hosted by LeanValmennus.fi</li></ul>
-  
-<H2>Mimmit koodaa workshops and similar</H2>
+
+<H2>IT oriented courses</H2>
+Syksy 2020 Introduction to API economy (1 op)
+<ul><li>Hosted by Fitech ICT/Tampereen yliopisto</li>
+  <li>Tools used: online lecture based course</li></ul>
+Syksy 2020 TIE-GIT git-kurssi (2 op)
+  <ul><li>Hosted by Fitech ICT/Tampereen yliopisto</li>
+    <li>Tools used: Plussa, Github, Git Bash</li>
+    <li>Languages used: Python</li></ul>
+Kevät 2020 SQL ja relaatiotietokannat (5 op)
+  <ul><li>Hosted by AMKoodari/Metropolia ammattikorkeakoulu</li>
+  <li>Tools used: Viope</li>
+  <li>Languages used: SQL</li>/ul>
+Kevät 2020 Ohjelmoinin perusteet (Java) (3 op)
+  <ul><li>Hosted by AMKoodari/Metropolia ammattikorkeakoulu</li>
+  <li>Langueages used: Java</li></ul>
+
+<H2>Mimmit koodaa workshops</H2>
 December 2020 Hakkeroinnin peruskurssi
 <ul><li>Hosted and sponsored by Visma & Solita</li>
   <li>Tools used: Burp, Firefox</li></ul>
@@ -29,4 +45,11 @@ April 2020 MOOC: Web Coding for Beginners: Population Graphs
   <li>Tools used: Visual Studio Code, node.js</li>
   <li>Languages used: HTML, JavaScript</li>
   <li>Other: REST API, Json</li></ul>
-
+26.10.2019 Working with Git in teams
+<ul><li>Hosted and sponsored by Gofore</li>
+  <li>Tools used: Github, Git Bash</li>
+  <li>Languages used: HTML</li></ul>
+16.3.2019 Basic operations using core R functionalities
+  <ul><li>Hosted and sponsored by Seriously</li>
+  <li>Tools used: RStudio</li>
+  <li>Languages used: R</li></ul>

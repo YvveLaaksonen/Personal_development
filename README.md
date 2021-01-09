@@ -19,10 +19,10 @@ Syksy 2020 TIE-GIT git-kurssi (2 op)
 Kevät 2020 SQL ja relaatiotietokannat (5 op)
   <ul><li>Hosted by AMKoodari/Metropolia ammattikorkeakoulu</li>
   <li>Tools used: Viope</li>
-  <li>Languages used: SQL</li>/ul>
+  <li>Languages used: SQL</li></ul>
 Kevät 2020 Ohjelmoinin perusteet (Java) (3 op)
   <ul><li>Hosted by AMKoodari/Metropolia ammattikorkeakoulu</li>
-  <li>Langueages used: Java</li></ul>
+  <li>Languages used: Java</li></ul>
 
 <H2>Mimmit koodaa workshops</H2>
 December 2020 Hakkeroinnin peruskurssi

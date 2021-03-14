@@ -25,6 +25,11 @@ Kevät 2020 Ohjelmoinin perusteet (Java) (3 op)
   <li>Languages used: Java</li></ul>
 
 <H2>Mimmit koodaa workshops</H2>
+February-March 2020 Move with Purpose Application challenge 
+  <ul><li>Hosted and sponsored by Islet and SAP</li>
+  <li>Tools used: SAP Build, SAP Business Application Studio</li>
+  <li>Languages used: HTML, JavaScript</li>
+  <li>Other: SAP Fiori</li></ul>
 December 2020 Hakkeroinnin peruskurssi
 <ul><li>Hosted and sponsored by Visma & Solita</li>
   <li>Tools used: Burp, Firefox</li></ul>

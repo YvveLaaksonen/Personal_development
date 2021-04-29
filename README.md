@@ -9,18 +9,20 @@ July 2020 Lean Six Sigma Yellow Belt
 <ul><li>Hosted by LeanValmennus.fi</li></ul>
 
 <H2>IT oriented courses</H2>
-Syksy 2020 Introduction to API economy (1 op)
+25.4.2021 Master Data Management
+<ul><li>Hosted by Adastra Academy</li></ul>
+Autumn 2020 Introduction to API economy (1 op)
 <ul><li>Hosted by Fitech ICT/Tampereen yliopisto</li>
   <li>Tools used: online lecture based course</li></ul>
-Syksy 2020 TIE-GIT git-kurssi (2 op)
+Autumn 2020 TIE-GIT git-kurssi (2 op)
   <ul><li>Hosted by Fitech ICT/Tampereen yliopisto</li>
     <li>Tools used: Plussa, Github, Git Bash</li>
     <li>Languages used: Python</li></ul>
-Kevät 2020 SQL ja relaatiotietokannat (5 op)
+Spring 2020 SQL ja relaatiotietokannat (5 op)
   <ul><li>Hosted by AMKoodari/Metropolia ammattikorkeakoulu</li>
   <li>Tools used: Viope</li>
   <li>Languages used: SQL</li></ul>
-Kevät 2020 Ohjelmoinin perusteet (Java) (3 op)
+Spring 2020 Ohjelmoinin perusteet (Java) (3 op)
   <ul><li>Hosted by AMKoodari/Metropolia ammattikorkeakoulu</li>
   <li>Languages used: Java</li></ul>
 
